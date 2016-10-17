@@ -8,5 +8,6 @@ SRC_URI += "file://9004-dts-imx6sx-s4-Add-some-GPIOs-to-pin-mux.patch"
 SRC_URI += "file://9005-dts-imx6sx-s4-Fix-dr_mode-of-usbotg1.patch"
 SRC_URI += "file://9006-dts-imx6sx-s4-Cleanup-dts.patch"
 SRC_URI += "file://9007-dts-imx6sx-s4-Rework-configuration-for-tja1145.patch"
+SRC_URI += "file://9008-dts-imx6sx-s4-Add-init-for-CAN2-Controller.patch"
 
 
